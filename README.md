@@ -89,7 +89,7 @@ o Average Time to Conversion and impact of website interactions.
  
   Highest premiums in urban areas
   Lower premiums in rural areas
-# 📈 Conclusions & Insights
+# 📈 Conclusions 
 
 ### ✅ Premium Pricing Trends:
 
@@ -111,9 +111,5 @@ o Average Time to Conversion and impact of website interactions.
 
    The average time to conversion (7.17 days) suggests room for efficiency improvements in sales processing.
 
-### ✅ Customer Journey Insights:
 
-  Only ~11% of website visitors convert into quotes.
-  
-  Further drop-off from inquiries to final purchases, indicating potential friction in the buying process.
 
